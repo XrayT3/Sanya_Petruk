@@ -1,10 +1,10 @@
 # -*- coding: utf-*- ?
 
-token = '443852087:AAGCGOkzRGgrDtU5lGhI-g55B1iFjgDddkA'
+token = ''
 
-admin_id = '291300125'
-help_id = '291300125'
-#manager_link = '@lampus'
+admin_id = ''
+help_id = ''
+
 
 user_adding_item_step = {}
 new_items_user_adding = {}
